@@ -5,7 +5,7 @@
 ## 💻 Project
 
 - Learning ReactJS;
-- Working with hooks such as 'useContext' and a custom hook to use global context.
+- Learning how to avoid "prop drilling" by working with hooks such as 'useContext' and a custom hook to use global context.
 
 <p>&nbsp;&nbsp;</p>
 
